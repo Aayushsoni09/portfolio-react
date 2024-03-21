@@ -18,7 +18,7 @@ export default function Footer() {
         py={4}
         align="center"
       >
-        <Text>© 2023 Aayush Soni. All rights reserved</Text>
+        <Text>© 2024 Aayush Soni. All rights reserved</Text>
       </Container>
     </Box>
   );
