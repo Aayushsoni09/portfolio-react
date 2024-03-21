@@ -24,8 +24,20 @@ A cutting-edge face detection solution, leveraging an advanced API to precisely 
   - Clarifai  [green]
 - Buttons:
   - Link [https://cerulean-khapse-a60ffd.netlify.app/]
-
-
+  
+## AI SUMMARIZER
+Crafted an innovative AI summarizer project leveraging ReactJS and powered by the cutting-edge capabilities of GPT-4. Seamlessly blending advanced natural language processing with intuitive user interface design, this project revolutionizes the way information is distilled. Users can effortlessly generate concise summaries of lengthy text with unparalleled accuracy and efficiency. Through ReactJS, the interface offers a seamless and responsive user experience, while GPT-4's state-of-the-art AI capabilities ensure the highest quality summaries.
+- ![summarizer](../assets/summarizer.png)
+- Tags: Category 1
+- Badges:
+  - Html  [orange]
+  - Css [red]
+  - Javascript [yellow]
+  - React  [blue]
+  - GPT4  [green]
+- Buttons:
+  - Link [https://capable-eclair-3b40c6.netlify.app/]
+  
 ## Robofriends
 Discover a world of robots with our innovative app powered by the Robohash API. Explore an extensive collection of unique robots and easily search for specific ones. Unleash your imagination and enjoy the endless possibilities of our robot listing app.
 - ![robots](../assets/rolodex.png)
