@@ -3,7 +3,7 @@
 
 ## Header
 - Hi, My name is Aayush. 
-- I'm a fullstack developer,
+- I'm a full-stack developer,
 - passionate about making the web a better place.
 
 ## About
@@ -13,7 +13,7 @@ I am a web developer who loves to build things. I am passionate about my work an
 
 - LinkedIn: https://www.linkedin.com/in/aayush-soni-09/
 - GitHub: https://github.com/Aayushsoni09?tab=repositories
-- Email: soni.aayush.work@gmail.com
+- Email: aayush.soni.work@gmail.com
 - Youtube: https://www.youtube.com/@monkweb9899/videos
 
 ## Logo
