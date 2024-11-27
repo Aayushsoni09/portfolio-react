@@ -1,3 +1,16 @@
+## Fashion Influencer Portfolio
+An ongoing portfolio project for a fashion content creator utilizes React, TypeScript, and Tailwind CSS for its development. The design incorporates a light and dark mode toggle, providing a versatile and visually engaging user experience. This project focuses on blending technical efficiency with creative design to showcase the creator's unique work effectively.
+- ![portfolio]( ../assets/portfolio.png )
+- Tags: Category 1
+- Badges:
+  - Html [orange]
+  - Css [red]
+  - Javascript [yellow]
+  - React [blue]
+  - Typescript [orangered]
+- Buttons:
+  - Link [https://yasshjoshi.netlify.app/]
+
 ## Food Ordering WebApp
 Integrated real Swiggy data for authentic content presentation, enhancing user engagement. Engineered a streamlined Skeleton UI to optimize loading times and smooth transitions, improving user experience. Developed a custom hook for efficient data management, boosting code reusability. Implemented offline state handling for seamless usability in low connectivity scenarios. Strengthened security and user experience with Firebase authentication. Utilized Redux for scalable state management, ensuring consistency across the application.
 - ![swiggy]( ../assets/swiggy.png )
